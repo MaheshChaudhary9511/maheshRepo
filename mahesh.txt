@@ -1,0 +1,9 @@
+onclick function in online function is the in camelCase 
+why we sholud always write in camel case
+
+Which hooks u uses in the react 
+properties ,state ,props as per as possible in the programming language ..
+
+which books u all are refers the for the react library...
+
+You will have two variable ie. setName ,and getName as per as possible..
